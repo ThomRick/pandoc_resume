@@ -1,100 +1,163 @@
-Johnny Coder
+Thomas RICART
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Développeur autodidacte et curieux, je cherche à en apprendre plus chaque jour.
+   Lors de mon expérience j'ai pu mettre en place des pratiques de développement craft et agile au sein de mes projets.
+>  Aujourd'hui j'aspire à évoluer sur des aspects infrastructures et m'intégrer dans des équipes ayant une approche DevOps.
 
 ----
 
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Experiences
 ----------
 
-**Your Most Recent Work Experience:**
+**Développeur FullStack**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+> Xebia France - Fortuneo
+> Janvier 2017 - Aujourd'hui : 1 an 2 mois
+> Région de Paris, France 
 
-* First item
+Refonte des applications frontend de Fortuneo au sein d'une équipe 
+Agile Scrum / DevOps de 8 personnes.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Activités :
+    * Développement des applications frontend
+    * Mise en place et évolution de le infrastructure
+    * Mise en place et évolution des pipeline CI / CD
+    * Accompagenement pour la transformation Agile de Fortuneo
 
-**That Other Job You Had**
+* Technologies:
+    * Angular 5 / NodeJS / Go
+    * Docker
+    * Amazon Web Services (Beanstalk, S3, CloudFront, Route53, CloudFormation)
+    * Jira / GitLab / GitLabCI
 
-Also with a short description.
+**Développeur Chef de Projet**
 
-Technical Experience
+> Accenture - La Banque Postale
+> Avril 2016 - Décembre 2016 : 9 mois
+> Région de Bordeaux, France
+
+Encadrant d'une équipe projet de 10 personnes sur les 
+applications Portail et Méthodes de Vente au sein du programme Cap Client 3.0.
+
+* Activités :
+    * Animation de l'équipe de développement
+    * Chiffrage des solutions
+    * Gestion des plannings
+
+* Technologies :
+    * Java SE7
+    * Javascript
+    * Maven
+    * Spring
+
+**Lead Développeur**
+
+> Accenture - La Banque Postale
+> Septembre 2015 - Avril 2016 : 8 mois
+> Région de Bordeaux, France
+
+Référent technique d'une équipe de 10 personnes sur les applications Portail et 
+Méthodes de Vente au sein du programme Cap Client 3.0
+
+* Technologies :
+    * Java SE7
+    * Javascript
+    * Maven
+    * Spring
+    
+**Développeur FullStack**
+
+> Accenture - La Banque Postale
+> Mai 2015 - Septembre 2015 : 5 mois
+> Région de Bordeaux, France
+
+Conception et développement des applications Portail et Méthode de Ventes 
+(Liste d'actions commerciales, Phoning et Opportunités) au sein du programme 
+Cap Client 3.0.
+
+* Technologies :
+    * Java SE 7
+    * Javascript
+    * Maven
+    * Spring
+
+**Développeur Java**
+
+> Accenture - Engie Ecometering
+> Août 2014 - Mars 2015 : 8 mois
+> Région de Paris, France
+
+Développement de la plateforme Gateway au sein du SI de Ecometering.
+
+* Technologies :
+    * Java SE 7
+    * Apache Camel
+    * Amazon WS (EC2, S3, DynamoDB, SQS)
+    * Maven
+
+**Intégrateur Solution PaaS C3Energie**
+
+> Accenture - Engie Ecometering
+> Mai 2014 - Août 2014 : 4 mois
+> Région de Paris, France
+
+Développement de web services sur la technologie C3Energy (Big Data Analytics) 
+pour intégration dans le SI de Ecometering.
+
+* Technologies:
+    * C3Energy
+    * Javascript
+
+Compétences Techniques
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   **[Nestjs](http://kamilmysliwiec.com/)**,
+    **[nest-cli](https://github.com/nestjs/nest-cli)**
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   
+* **Java**: Oracle Certified Associate Java SE 7 Programmer 1. Exemples:
+  * mow-it-now kata : [https://github.com/ThomRick/mow-it-now](https://github.com/ThomRick/mow-it-now)  
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* **Javascript** Exemples:
+  * es6-hexagonal-architecture : [https://github.com/ThomRick/es6-hexagonal-architecture](https://github.com/ThomRick/es6-hexagonal-architecture) 
+  * tiny-compiler : [https://github.com/ThomRick/tiny-compiler](https://github.com/ThomRick/tiny-compiler)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+* **TypeScript** Exemples:
+  * nest-cli : [https://github.com/nestjs/nest-cli](https://github.com/nestjs/nest-cli)
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+* **Docker**, 
+  **Kubernetes**, 
+  **Terraform**, 
+  **Amazon Web Services**, 
+  **Google Cloud Platform**,
+  **TravisCI**,
+  **GitLab**, 
+  **GitLabCI**,
+  **Jenkins**
+  **Git**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Scolarité
+---------
 
-Extra Section, Call it Whatever You Want
+2010-2013
+:   **Diplôme d'Ingénieur** Institut National Polytechnique de Grenoble
+
+Autres Activités
 ----------------------------------------
 
 * Human Languages:
+     * Français (langue maternelle)
+     * Anglais (bon niveau)
+     * Espagnol (notions)
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Musicien (Guitariste)
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> thomas.ricart@outlook.fr • 27 years old\
+> 30 Chemin du Rocher - Villejust, France
