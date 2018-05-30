@@ -5,7 +5,7 @@ Thomas RICART
 
 >  Développeur autodidacte et curieux, je cherche à en apprendre plus chaque jour.
    Lors de mon expérience j'ai pu mettre en place des pratiques de développement craft et agile au sein de mes projets.
->  Aujourd'hui j'aspire à évoluer sur des aspects infrastructures et m'intégrer dans des équipes ayant une approche DevOps.
+>  Aujourd'hui j'aspire à évoluer d'avantage sur des aspects infrastructures et m'intégrer dans des équipes ayant une approche DevOps.
 
 ----
 
@@ -15,22 +15,24 @@ Experiences
 **Développeur FullStack**
 
 > Xebia France - Fortuneo
-> Janvier 2017 - Aujourd'hui : 1 an 2 mois
+> Janvier 2017 - Aujourd'hui : 1 an 5 mois
 > Région de Paris, France 
 
 Refonte des applications frontend de Fortuneo au sein d'une équipe 
 Agile Scrum / DevOps de 8 personnes.
 
 * Activités :
-    * Développement des applications frontend
-    * Mise en place et évolution de le infrastructure
-    * Mise en place et évolution des pipeline CI / CD
-    * Accompagenement pour la transformation Agile de Fortuneo
+    * Refonte des parcours de souscription
+    * Développement de nouveaux parcours de souscription
+    * Mise en place et évolutions de l'infrastructure
+    * Mise en place et évolutions des pipeline CI / CD
+    * Optimisation des livrables applicatifs via Docker
+    * Accompagenement sur la transformation Agile de Fortuneo
 
 * Technologies:
     * Angular 5 / NodeJS / Go
     * Docker
-    * Amazon Web Services (Beanstalk, S3, CloudFront, Route53, CloudFormation)
+    * Amazon Web Services (Beanstalk, S3, CloudFront, Route53, CloudFormation, ECS)
     * Jira / GitLab / GitLabCI
 
 **Développeur Chef de Projet**
@@ -116,26 +118,26 @@ Compétences Techniques
 
 Open Source
 :   **[Nestjs](http://kamilmysliwiec.com/)**,
-    **[nest-cli](https://github.com/nestjs/nest-cli)**
+    **[nest-cli](https://github.com/nestjs/nest-cli)**,
+    **[nest-schematics](https://github.com/nestjs/schematics)**
 
 Programming Languages
 :   
 * **Java**: Oracle Certified Associate Java SE 7 Programmer 1. Exemples:
-  * mow-it-now kata : [https://github.com/ThomRick/mow-it-now](https://github.com/ThomRick/mow-it-now)  
+    * mow-it-now kata : [https://github.com/ThomRick/mow-it-now](https://github.com/ThomRick/mow-it-now)  
 
 * **Javascript** Exemples:
-  * es6-hexagonal-architecture : [https://github.com/ThomRick/es6-hexagonal-architecture](https://github.com/ThomRick/es6-hexagonal-architecture) 
+    * es6-hexagonal-architecture : [https://github.com/ThomRick/es6-hexagonal-architecture](https://github.com/ThomRick/es6-hexagonal-architecture) 
   * tiny-compiler : [https://github.com/ThomRick/tiny-compiler](https://github.com/ThomRick/tiny-compiler)
-
-* **TypeScript** Exemples:
-  * nest-cli : [https://github.com/nestjs/nest-cli](https://github.com/nestjs/nest-cli)
 
 * **Docker**, 
   **Kubernetes**, 
+  **Swarm**,
   **Terraform**, 
   **Amazon Web Services**, 
   **Google Cloud Platform**,
   **TravisCI**,
+  **CircleCI**,
   **GitLab**, 
   **GitLabCI**,
   **Jenkins**
