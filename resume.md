@@ -11,11 +11,33 @@ Thomas RICART
 
 Experiences
 ----------
+**Développeur FullStack**
+
+> Freelance - Artform
+> Juin 2018 - Aujourd'hui : 2 mois
+> Los Angeles, USA - Remote
+
+Développement d'applications pour le domaine de l'art et de l'évenementiel.
+
+* Activités :
+    * Développement d'une application mobile IOS
+    * Refonte du backend
+    * Refonte du site d'administration
+
+* Technologies :
+    * backend : NodeJS / Typescript / NestJS / Event Sourcing
+    * frontend : React
+    * mobile : React-Native / Expo
+    * tests : Jest
+    * infrastructure : Docker / Heroku
+    * database : Mongodb
+    * sources : Git / GitHub
+    * gestion de projet : Srumban (sprint d'1 semaine) / GitHub project /GitHub issue
 
 **Développeur FullStack**
 
 > Xebia France - Fortuneo
-> Janvier 2017 - Aujourd'hui : 1 an 5 mois
+> Janvier 2017 - Juin 2018 : 1 an 5 mois
 > Région de Paris, France 
 
 Refonte des applications frontend de Fortuneo au sein d'une équipe 
@@ -152,7 +174,7 @@ Scolarité
 Autres Activités
 ----------------------------------------
 
-* Human Languages:
+* Langues:
      * Français (langue maternelle)
      * Anglais (bon niveau)
      * Espagnol (notions)
