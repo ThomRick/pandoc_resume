@@ -14,15 +14,13 @@ Experiences
 **Développeur FullStack**
 
 > Freelance - Artform
-> Juin 2018 - Aujourd'hui : 2 mois
+> Juin 2018 - Aujourd'hui : 8 mois
 > Los Angeles, USA - Remote
 
 Développement d'applications pour le domaine de l'art et de l'évenementiel.
 
 * Activités :
-    * Développement d'une application mobile IOS
-    * Refonte du backend
-    * Refonte du site d'administration
+    * Développement d'un système pour la promotion des Artists et des Arts en général.
 
 * Technologies :
     * backend : NodeJS / Typescript / NestJS / Event Sourcing
@@ -31,8 +29,8 @@ Développement d'applications pour le domaine de l'art et de l'évenementiel.
     * tests : Jest
     * infrastructure : Docker / Heroku
     * database : Mongodb
-    * sources : Git / GitHub
-    * gestion de projet : Srumban (sprint d'1 semaine) / GitHub project /GitHub issue
+    * sources : Git / GitHub / GitLab
+    * framework gestion de projet : Scrum
 
 **Développeur FullStack**
 
@@ -183,5 +181,5 @@ Autres Activités
 
 ----
 
-> thomas.ricart@outlook.fr • 27 years old\
+> thomas@ricart.io • 28 years old\
 > 30 Chemin du Rocher - Villejust, France
